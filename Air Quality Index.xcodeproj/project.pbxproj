@@ -13,6 +13,7 @@
 		1F087BDE1FF523EB00BD5BE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F087BDC1FF523EB00BD5BE2 /* Main.storyboard */; };
 		1F087BEA1FF523EB00BD5BE2 /* Air_Quality_IndexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F087BE91FF523EB00BD5BE2 /* Air_Quality_IndexTests.swift */; };
 		1F087BF51FF523EB00BD5BE2 /* Air_Quality_IndexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F087BF41FF523EB00BD5BE2 /* Air_Quality_IndexUITests.swift */; };
+		1F087C031FF524D200BD5BE2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1F087C021FF524D200BD5BE2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		1F087BF01FF523EB00BD5BE2 /* Air Quality IndexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Air Quality IndexUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F087BF41FF523EB00BD5BE2 /* Air_Quality_IndexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air_Quality_IndexUITests.swift; sourceTree = "<group>"; };
 		1F087BF61FF523EB00BD5BE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F087C021FF524D200BD5BE2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		1F087BCA1FF523EB00BD5BE2 = {
 			isa = PBXGroup;
 			children = (
+				1F087C021FF524D200BD5BE2 /* README.md */,
 				1F087BD51FF523EB00BD5BE2 /* Air Quality Index */,
 				1F087BE81FF523EB00BD5BE2 /* Air Quality IndexTests */,
 				1F087BF31FF523EB00BD5BE2 /* Air Quality IndexUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F087C031FF524D200BD5BE2 /* README.md in Resources */,
 				1F087BDB1FF523EB00BD5BE2 /* Assets.xcassets in Resources */,
 				1F087BDE1FF523EB00BD5BE2 /* Main.storyboard in Resources */,
 			);
